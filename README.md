@@ -3,7 +3,7 @@
 
 to start :
 
-* clone the code: ```git clone git@github.com:Rouen-NLP/nlp-lab-CHANGE_ME.git```
+* clone the code
 * create a virtual environment: ```virtualenv -p python3 nlp-env```
 * activate the virtual env: ```source nlp-env/bin/activate```
 * install the required packages:  ```pip install -r requirements.txt```
